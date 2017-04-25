@@ -5,7 +5,7 @@
 Run the following command with your arguments.
 
 ```bash
-$ docker run -it --rm -v $(pwd):/app mkubik/github-changelog-generator
+$ docker run -it --rm -v $(pwd):/app mqbik/github-changelog-generator
 ```
 
 ## Why yet another Docker image
